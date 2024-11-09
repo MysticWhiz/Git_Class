@@ -1,1 +1,2 @@
-print("hello world!hi,Alif")
+print("Hello world!")
+print("hi!")
